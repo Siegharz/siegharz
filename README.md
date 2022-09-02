@@ -15,6 +15,7 @@
 - Reading bodybuilding anatomy by Nick Evans 📚
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siegharz)](https://github.com/siegharz/github-readme-stats)
 
 
 
