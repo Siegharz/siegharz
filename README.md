@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Victor
 
 ## I'm a student at Unicarioca & an aspiring Full Stack developer
-![Siegharz's GitHub stats](https://github-readme-stats.vercel.app/api?username=siegharz&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siegharz&hide_border=true)](https://git.io/streak-stats)
+![Siegharz's GitHub stats](https://github-readme-stats.vercel.app/api?username=siegharz&show_icons=true&theme=merko&border_radius=12&bg_color=135,222223,000000&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siegharz&hide_border=true&theme=merko)](https://git.io/streak-stats)
 
 
 ## Currently working on
@@ -15,8 +15,8 @@
 - Reading bodybuilding anatomy by Nick Evans 📚
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siegharz)](https://github.com/siegharz/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/siegharz?template=classic&languages=1&stargazers=1&people=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FSao_Paulo)
 
 
 <h3 align="left">Languages and Tools:</h3>
