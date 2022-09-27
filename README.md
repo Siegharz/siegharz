@@ -7,7 +7,6 @@
 
 ## Currently working on
 - Udemy course in Full Stack Web Development 🧮
-- Web Hacking 🧠
 - My Personal Website 👨🏾‍💻
 - A fullstack web application 🌎
 - UI & UX Design apps and sites - Adobe XD and PSD 🦠
