@@ -7,7 +7,6 @@
 
 ## Currently working on
 - Udemy course in Full Stack Web Development 🧮
-- DevOps : CI/CD with Jenkins 📈
 - Web Hacking 🧠
 - My Personal Website 👨🏾‍💻
 - A fullstack web application 🌎
