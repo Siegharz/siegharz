@@ -26,6 +26,5 @@
 Email: [victorluzsd@gmail.com](mailto:victorluzsd@gmail.com) <br />
 Instagram: [Victor A. Santos](https://www.instagram.com/victorldsd/) <br />
 Linkedin: [Victor Santos](https://www.linkedin.com/in/victor-santos-bb368a1b4/) <br />
-Discord: Victor Santos#2711 
 
-Coding since Fev 2020
+Coding since Fev 2021
